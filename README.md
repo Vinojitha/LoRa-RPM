@@ -24,4 +24,14 @@ Applications: This board is versatile for a variety of IoT applications, such as
 
 ![image](https://github.com/Vinojitha/LoRa-RPM/assets/145708343/853bdd21-7e71-4b3c-bb9b-38d010648532)
 
+Device and output on the OLED display 
+
+
+![image](https://github.com/Vinojitha/LoRa-RPM/assets/145708343/9e2ec662-4fc1-487a-ab87-6d68dfc0a668)
+
+
+Sender and receive serial monitor output through Arduino ide
+
+
+<img width="464" alt="image" src="https://github.com/Vinojitha/LoRa-RPM/assets/145708343/ea90bec1-9936-46dc-ab40-b270bcb4d631">
 
